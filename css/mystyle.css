@@ -1,5 +1,11 @@
 body
 {
-    background-color: black;
+    background-color: black;}
+
+
+
+
     img
-    {text-align: center;}
+    {text-align: center;
+    position: absolute;
+right: 33.333%;}
